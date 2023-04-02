@@ -9,10 +9,6 @@ The document classification solution should significantly reduce the manual huma
 
 ```
 A simple resume parser used for extracting information from resumes
-```
-
-Built with ❤︎ and :coffee: by  [Mridul Sharma](https://github.com/Mridul-Sharma01)
-
 ---
 
 [![GitHub stars](https://img.shields.io/github/stars/OmkarPathak/pyresparser.svg)](https://github.com/OmkarPathak/pyresparser/stargazers)
